@@ -1,0 +1,83 @@
+# Sprint 2 – Project Planning & Requirement Analysis
+
+## Project Name
+Inventory Management System
+
+## Project Domain
+Business
+
+## Project Description
+The Inventory Management System is a web-based application developed using the MERN Stack to help businesses manage products, categories, suppliers, inventory and purchase orders efficiently.
+
+## Sprint 2 Objective
+To analyze project requirements, identify stakeholders, define project scope, and document functional and non-functional requirements.
+
+## Problem Statement
+Manual inventory management can lead to inaccurate stock records, difficulty tracking products, supplier management problems and purchasing errors. A centralized system is required to improve inventory operations.
+
+## Project Objectives
+- Manage products and categories.
+- Maintain supplier information.
+- Monitor stock availability.
+- Record stock transactions.
+- Manage purchase orders.
+- Generate inventory reports.
+
+## Stakeholders
+1. Administrator
+2. Inventory Manager
+3. Staff
+
+## Project Scope
+### Included
+- User Authentication
+- Product Management
+- Category Management
+- Supplier Management
+- Inventory Management
+- Purchase Order Management
+- Inventory Reports
+
+### Excluded
+- Mobile Application
+- AI-based Forecasting
+- Payment Gateway
+- Third-party Integrations
+
+## Functional Requirements
+- User Registration and Login
+- Product CRUD Operations
+- Category Management
+- Supplier Management
+- Stock In and Stock Out
+- Stock Adjustment
+- Inventory History
+- Purchase Order Management
+- Order Status Tracking
+- Report Generation
+
+## Non-Functional Requirements
+- Performance
+- Security
+- Usability
+- Reliability
+- Maintainability
+- Scalability
+
+## Technology Stack
+- Frontend: React.js
+- Backend: Node.js and Express.js
+- Database: MongoDB
+- Authentication: JWT
+
+## Sprint 2 Deliverables
+- Problem Statement
+- Project Objectives
+- Stakeholder Identification
+- Project Scope
+- Functional Requirements
+- Non-Functional Requirements
+- Project Documentation
+
+## Result
+Project planning and requirement analysis were completed successfully. The requirements were identified and documented, providing a foundation for the next development sprint.
